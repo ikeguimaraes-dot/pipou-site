@@ -23,3 +23,7 @@ Fotografia de ambiente de restaurante: Unsplash, https://images.unsplash.com/pho
 ## Logotipo transparente
 
 O site utiliza `dist/assets/pipou-logo-transparente.png`, com canal alfa, gerado com a ferramenta integrada de edição de imagens. O JPEG original foi preservado. Prompt: remover apenas o fundo escuro, inclusive dentro do símbolo e das letras, preservando símbolo, divisor, texto PIPOU, proporções e amarelo da marca, com fundo transparente.
+
+## Funcionalidades e app
+
+A seção de funcionalidades detalha os 12 módulos do blueprint, identificados como visão funcional. A seção `#app` apresenta oito capturas originais fornecidas pelo cliente em `dist/assets/app/`, sem edição de imagem. A galeria permite trocar telas, navegar por teclado e ampliar as capturas em um diálogo. Textos descrevem as interfaces apresentadas; disponibilidade comercial e integrações dependem do escopo contratado.
