@@ -27,3 +27,7 @@ O site utiliza `dist/assets/pipou-logo-transparente.png`, com canal alfa, gerado
 ## Funcionalidades e app
 
 A seção de funcionalidades detalha os 12 módulos do blueprint, identificados como visão funcional. A seção `#app` apresenta oito capturas originais fornecidas pelo cliente em `dist/assets/app/`, sem edição de imagem. A galeria permite trocar telas, navegar por teclado e ampliar as capturas em um diálogo. Textos descrevem as interfaces apresentadas; disponibilidade comercial e integrações dependem do escopo contratado.
+
+## Posicionamento comercial
+
+A abertura e a seção `#facilidade` destacam a facilidade de uso para o RH como diferencial central, ao lado da autonomia do colaborador e do Mr. Coin. As telas reais do app aparecem no início e em três exemplos visíveis sem navegação em abas. A experiência do painel de RH é descrita como proposta; não é apresentada uma captura fictícia do sistema administrativo. A seção `#contratacao` explica os critérios da proposta, sem preços ou compromissos de implantação não definidos. O formulário solicita o agendamento pelo WhatsApp; a data é combinada pela equipe.
