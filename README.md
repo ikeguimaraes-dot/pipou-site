@@ -16,3 +16,7 @@ Para hospedar, use `institucional` como diretório base e `dist` como diretório
 ## Vercel
 
 Importe o repositório com Root Directory `./` e preset Other. O `vercel.json` da raiz publica `institucional/dist`, sem instalação ou build. Pushes em `main` atualizam o site conectado na Vercel.
+
+## Domínio oficial
+
+Endereço principal: https://www.pipou.net/. O domínio https://pipou.net/ redireciona permanentemente para www. O registro e os servidores DNS permanecem na GoDaddy. O projeto na Vercel é `pipou-site`.
