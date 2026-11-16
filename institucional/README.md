@@ -19,3 +19,7 @@ O formulário prepara uma mensagem para o WhatsApp **+55 13 99777-0666**. O visi
 Base: blueprint fornecido em novembro de 2026 e portal Pipou Academy. Módulos planejados e simulação do Mr. Coin estão identificados no site. Não são apresentadas métricas comerciais, testemunhos ou funcionalidades disponíveis sem comprovação.
 
 Fotografia de ambiente de restaurante: Unsplash, https://images.unsplash.com/photo-1552566626-52f8b828add9. Fontes: DM Sans e Manrope via Google Fonts. Logotipo Pipou e imagem do Mr. Coin fornecidos pelo cliente. Amarelo principal `#FAD019`, baseado na cor predominante do logotipo enviado. As imagens originais são preservadas; o enquadramento do logotipo é feito em CSS.
+
+## Logotipo transparente
+
+O site utiliza `dist/assets/pipou-logo-transparente.png`, com canal alfa, gerado com a ferramenta integrada de edição de imagens. O JPEG original foi preservado. Prompt: remover apenas o fundo escuro, inclusive dentro do símbolo e das letras, preservando símbolo, divisor, texto PIPOU, proporções e amarelo da marca, com fundo transparente.
